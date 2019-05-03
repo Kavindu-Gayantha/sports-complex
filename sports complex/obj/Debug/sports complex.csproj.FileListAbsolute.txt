@@ -1,0 +1,10 @@
+C:\Users\Kavindu Gayantha\Desktop\visual studio\sports complex\sports complex\bin\Debug\sports complex.exe.config
+C:\Users\Kavindu Gayantha\Desktop\visual studio\sports complex\sports complex\bin\Debug\sports complex.exe
+C:\Users\Kavindu Gayantha\Desktop\visual studio\sports complex\sports complex\bin\Debug\sports complex.pdb
+C:\Users\Kavindu Gayantha\Desktop\visual studio\sports complex\sports complex\obj\Debug\sports complex.csprojAssemblyReference.cache
+C:\Users\Kavindu Gayantha\Desktop\visual studio\sports complex\sports complex\obj\Debug\sports_complex.Properties.Resources.resources
+C:\Users\Kavindu Gayantha\Desktop\visual studio\sports complex\sports complex\obj\Debug\sports complex.csproj.GenerateResource.cache
+C:\Users\Kavindu Gayantha\Desktop\visual studio\sports complex\sports complex\obj\Debug\sports complex.csproj.CoreCompileInputs.cache
+C:\Users\Kavindu Gayantha\Desktop\visual studio\sports complex\sports complex\obj\Debug\sports complex.exe
+C:\Users\Kavindu Gayantha\Desktop\visual studio\sports complex\sports complex\obj\Debug\sports complex.pdb
+C:\Users\Kavindu Gayantha\Desktop\visual studio\sports complex\sports complex\obj\Debug\sports_complex.Form1.resources
